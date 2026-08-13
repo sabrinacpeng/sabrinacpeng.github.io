@@ -1,0 +1,7 @@
+---
+title: "About"
+---
+
+I am a Ph.D. Candidate in Economics at Yale University.
+
+My research studies international trade, technology, and firms. My work combines micro data and causal evidence with quantitative models.

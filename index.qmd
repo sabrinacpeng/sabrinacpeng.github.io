@@ -1,0 +1,17 @@
+---
+title: "Chenchen (Sabrina) Peng"
+---
+
+Welcome!
+
+I am a Ph.D. Candidate in Economics at Yale University.
+
+My research studies international trade, technology, and firms. My work combines micro data and causal evidence with quantitative models.
+
+My CV is available [here](cv.pdf). Email: [sabrina.peng\@yale.edu](mailto:sabrina.peng@yale.edu).
+
+## Research
+
+Offshoring and Knowledge Spillovers (Job Market Paper)
+
+Workforce Age Structure and Frontier Technology Adoption: Evidence from Newly Released Software (with Tra Nguyen)
