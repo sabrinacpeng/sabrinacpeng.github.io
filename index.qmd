@@ -4,11 +4,19 @@ title: "Chenchen (Sabrina) Peng"
 
 Welcome!
 
+::: {.homepage-intro}
+::: {.homepage-copy}
 I am a Ph.D. Candidate in Economics at Yale University.
 
 My research studies international trade, technology, and firms. My work combines micro data and causal evidence with quantitative models.
 
 My CV is available [here](cv.pdf). Email: [sabrina.peng\@yale.edu](mailto:sabrina.peng@yale.edu).
+:::
+
+::: {.homepage-photo}
+![Chenchen (Sabrina) Peng](images/profile.jpg){.profile-photo}
+:::
+:::
 
 ## Research
 
