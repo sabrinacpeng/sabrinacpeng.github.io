@@ -14,7 +14,7 @@ My CV is available [here](cv.pdf). Email: [sabrina.peng\@yale.edu](mailto:sabrin
 :::
 
 ::: {.homepage-photo}
-![Chenchen (Sabrina) Peng](images/profile.jpg){.profile-photo}
+![Chenchen (Sabrina) Peng](images/profile.jpg){.profile-photo width="170"}
 :::
 :::
 

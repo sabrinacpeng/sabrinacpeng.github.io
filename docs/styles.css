@@ -2,7 +2,7 @@
 
 .homepage-intro {
   display: grid;
-  grid-template-columns: minmax(0, 1fr) minmax(180px, 260px);
+  grid-template-columns: minmax(0, 1fr) 170px;
   gap: 2rem;
   align-items: start;
   margin-top: 1rem;
@@ -19,8 +19,8 @@
 
 .profile-photo {
   display: block;
-  width: 100%;
-  max-width: 260px;
+  width: 170px;
+  max-width: 100%;
   aspect-ratio: 4 / 5;
   object-fit: cover;
   border-radius: 6px;
