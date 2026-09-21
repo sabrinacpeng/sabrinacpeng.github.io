@@ -4,6 +4,8 @@ project:
 
 website:
   title: "Chenchen (Sabrina) Peng"
+  description: "Chenchen (Sabrina) Peng is a Ph.D. candidate in Economics at Yale University researching international trade, technology, and firms."
+  site-url: "https://sabrinacpeng.github.io/"
 
 format:
   html:
