@@ -13,6 +13,7 @@ format:
       - cosmo
       - brand
     css: styles.css
+    include-in-header: google-site-verification.html
     toc: false
 
 editor: visual
