@@ -36,3 +36,14 @@ My CV is available [here](cv.pdf). Email: [sabrina.peng\@yale.edu](mailto:sabrin
 
 **Selective Entry in Highway Procurement Auctions** [[PDF]](https://economics.virginia.edu/sites/economics.as.virginia.edu/files/inline-files/Peng-2020-Atlantic_Economic_Journal.pdf)<br>
 *Atlantic Economic Journal*, 48(4), 519–533, 2020.
+
+## Teaching
+
+**Decision Making with Data (MBA)**<br>
+<span class="teaching-details">Teaching Assistant for Prof. Peter Schott · Yale School of Management · Spring 2026</span>
+
+**Long-Term Fiscal Sustainability**<br>
+<span class="teaching-details">Teaching Assistant for Prof. Teresa Delgado · Yale College · Fall 2025</span>
+
+**Herb Scarf Summer Research Program in Economics**<br>
+<span class="teaching-details">Co-Director · Yale University · Summer 2024</span>

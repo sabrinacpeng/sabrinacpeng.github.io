@@ -44,7 +44,8 @@ main.content {
   }
 }
 
-.paper-coauthors {
+.paper-coauthors,
+.teaching-details {
   font-size: 0.9em;
   font-weight: 400;
   color: #666;
