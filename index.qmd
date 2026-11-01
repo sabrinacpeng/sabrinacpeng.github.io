@@ -22,10 +22,10 @@ My CV is available [here](cv.pdf). Email: [sabrina.peng\@yale.edu](mailto:sabrin
 
 ## Research
 
-Offshoring and Knowledge Spillovers (Job Market Paper)
+**Offshoring and Knowledge Spillovers** (Job Market Paper)
 
-Workforce Age Structure and Frontier Technology Adoption: Evidence from Newly Released Software [[PDF]](https://tranguyenecon.com/assets/Nguyen_Peng_Workforce_Age_Technology_Adoption.pdf)<br>
-with Tra Nguyen
+**Workforce Age Structure and Frontier Technology Adoption: Evidence from Newly Released Software** [[PDF]](https://tranguyenecon.com/assets/Nguyen_Peng_Workforce_Age_Technology_Adoption.pdf)<br>
+<span class="paper-coauthors">with Tra Nguyen</span>
 
 <details>
 <summary>Abstract</summary>

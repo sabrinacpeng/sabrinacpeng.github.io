@@ -43,3 +43,9 @@ main.content {
     justify-self: start;
   }
 }
+
+.paper-coauthors {
+  font-size: 0.9em;
+  font-weight: 400;
+  color: #666;
+}
