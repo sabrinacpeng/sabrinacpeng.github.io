@@ -22,7 +22,7 @@ My CV is available [here](cv.pdf). Email: [sabrina.peng\@yale.edu](mailto:sabrin
 
 ## Working Papers {#research}
 
-**Offshoring and Knowledge Spillovers** (Job Market Paper)
+**Offshoring and Knowledge Spillovers** (Job Market Paper) [[PDF]](https://www.dropbox.com/scl/fi/qfu2msy99e51ns31c9xfm/Peng_jmp.pdf?rlkey=zm5peeiwawalgh64phpprgxb3&raw=1)
 
 <details class="mb-3">
 <summary>Abstract</summary>
